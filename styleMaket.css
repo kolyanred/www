@@ -702,12 +702,7 @@
    
     row-gap: 40px;
 }
-.FooterRight a {
-    margin: 0%;
-    font-size: 18px;
-    line-height: 18px;
-    color: white;
-}
+
 /* .FooterDown {
     display: flex;
     flex-direction: row;
