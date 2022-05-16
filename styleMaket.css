@@ -708,11 +708,11 @@
     line-height: 18px;
     color: white;
 }
-.FooterDown {
+/* .FooterDown {
     display: flex;
     flex-direction: row;
     margin-left: 113px;
-}
+} */
 /* .FooterDown p {
     color: #8A95AD;
     font-size: 16px;
